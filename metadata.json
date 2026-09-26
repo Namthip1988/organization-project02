@@ -1,0 +1,8 @@
+{
+  "name": "MoneyTrack - ระบบจัดการรายรับรายจ่ายและวิเคราะห์การเงิน",
+  "description": "เว็บจัดการรายรับรายจ่ายพร้อมสรุปผลรายเดือน กราฟวิเคราะห์การเงิน และระบบเข้าสู่ระบบด้วย Gmail บันทึกข้อมูลบน Firebase Firestore",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
